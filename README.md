@@ -1,4 +1,4 @@
-# Decentralized voting application on Ethereum Blockchain
+# Decentralized voting application 
 
 
 To run the code, you need to run the following commands. 
